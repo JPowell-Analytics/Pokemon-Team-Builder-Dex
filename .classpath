@@ -12,5 +12,6 @@
 	<classpathentry kind="lib" path="libs/httpcore-4.3.jar"/>
 	<classpathentry kind="lib" path="libs/httpmime-4.3.1.jar"/>
 	<classpathentry kind="lib" path="libs/java-json.jar"/>
+	<classpathentry kind="lib" path="pokemon_list.txt"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
